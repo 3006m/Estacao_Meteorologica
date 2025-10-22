@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 import "../styles/css.css";
 import FelipeImg from "../assets/felipe.jpg";
 import CorreiaImg from "../assets/correia.jpg";
@@ -66,6 +67,7 @@ export default function Equipe() {
           <img src={Equipa} alt="Equipe." className="equipeTotalI" />
         </div>
       </div>
+      <Footer/>
     </main>
   );
 }
