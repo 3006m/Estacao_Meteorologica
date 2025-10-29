@@ -67,7 +67,7 @@ export default function Equipe() {
           <img src={Equipa} alt="Equipe." className="equipeTotalI" />
         </div>
       </div>
-      <Footer/>
+      <Footer />
     </main>
   );
 }
