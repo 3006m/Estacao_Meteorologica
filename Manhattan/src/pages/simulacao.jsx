@@ -2,7 +2,7 @@
 import React from 'react';
 import Navbar from '../components/navbar';
 import Footer from '../components/footer';
-import Print from '../assets/DesafioClima.png'
+import Print from '../assets/ImagemClima.png'
 import '../styles/css.css';
 
 export default function Simulacao() {
