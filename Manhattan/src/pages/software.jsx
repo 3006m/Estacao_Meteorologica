@@ -3,7 +3,7 @@ import Navbar from "../components/navbar";
 import Footer from "../components/footer";
 import "../styles/css.css";
 
-import Image1 from '../assets/Upload.png'
+import Image1 from '../assets/ImagemUpload.png'
 import esp from '../assets/esp32_devkitc.jpg'
 import espp from '../assets/esp32_pinout-2.jpg'
 import server from '../assets/KHM-001-02.png'
